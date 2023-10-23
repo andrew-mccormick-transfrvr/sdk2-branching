@@ -1,18 +1,18 @@
 {
-  "name": "com.transfrvr.ce2.{$sim_name_lowercase}",
+  "name": "com.transfrvr.branching",
   "version": "1.0.0",
-  "displayName": "CE2: {$sim_name}",
-  "description": "{$sim_description}",
+  "displayName": "Branching",
+  "description": "test branching narrative in SDK 2.0",
   "unity": "2020.3",
   "keywords": [
     "careerexploration",
     "sim"
   ],
-  "author": {
-    "name": "TransfrVR",
-    "email": "evan@transfrvr.com",
-    "url": "https://github.com/TRANSFR-Inc/{$sim_id}_{$sim_name}"
-  },
+    "author": {
+        "name": "TransfrVR",
+        "email": "amccormick@transfrvr.com",
+        "url": "https://github.com/andrew-mccormick-transfrvr/sdk2-branching"
+    },
   "unityRelease": "17f1",
   "dependencies": {
     "com.transfrvr.common": "1.9.0",
